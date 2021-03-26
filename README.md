@@ -1,7 +1,7 @@
-# Game #17
-A small clone of [32768](http://nikeix.github.io/32768), based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
+# 1048576
+A small clone of [Game #17](https://thereal2048.github.io/game17), based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
 
-Made just for fun. [Play it here!](https://thereal2048.github.io/game17)
+Made just for fun. [Play it here!](https://numberblock12.github.io/1048576)
 
 ### Screenshot
 
@@ -13,4 +13,4 @@ Never got there, just little cheating :smile:
 
 
 ## Donations
-Please help the creator of 32768, Nikeix!  BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
