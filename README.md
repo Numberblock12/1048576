@@ -13,4 +13,4 @@ Never got there, just little cheating :smile:
 
 
 ## Donations
-BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
+Creator of 2048 BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. 
